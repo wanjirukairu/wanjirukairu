@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Wanjiru 👋
 
-<!--
-**wanjirukairu/wanjirukairu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Filmmaker turned founder. 23 years on set as
+writer, director, producer, AD — across Kenya,
+East Africa, and international co-productions.
 
-Here are some ideas to get you started:
+Spent two decades watching film sets run on
+walkie talkies and paper call sheets.
+Built the thing that should already exist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+🎬 **[SetSync](https://setsync.studio)** — live coordination OS for film sets
+✍️ **SetSync Script** — screenwriting app built for the shoot day
+
+## Stack
+TypeScript · React · Supabase · Netlify
+
+## Find me
+🐦 [@WanjiruKairo](https://x.com/WanjiruKairo)
+📧 action@setsync.studio
